@@ -1,5 +1,5 @@
 # RhythmCoach
-### Helps you play rhythm games healthily by managing breaks and exercizes.
+### Helps you play rhythm games healthily by managing breaks and exercises.
 
 #### -Too much of a degenerate?
 #### -Do you never leave your computer?
